@@ -7,6 +7,6 @@
 We are five students from Epitech - French computer science school - and we will spend our fourth year (2015/2016) in Finland ! More precisely, we were accepted in the Laurea University of Applied Science, in Espoo, in the Helsinki suburbs. +
 This is the reason why we decided to create a blog, first to share our informations about Finland, its culture etc., and later to tell about our experience, whether it is about the classes we'll take or about our everyday life in a foreign country.
 
-The students who created this blog are : Jérôme CAMPEAUX (Paris), Martin DONADIEU (Montpellier), link:https://github.com/ArmandDu[Armand DUPUIS] (Strasbourg), Benoît DURAND (Paris) et Coline MARION (Paris).
+The students contributing to this blog are : Jérôme CAMPEAUX (Paris), Martin DONADIEU (Montpellier), link:https://github.com/ArmandDu[Armand DUPUIS] (Strasbourg), Benoît DURAND (Paris) and Coline MARION (Paris).
 
-Bienvenue sur notre blog, nous espérons que vous l'apprécierez et qu'il vous sera utile !
+Welcome on our blog, we hope you will like it and that you will find it useful!
