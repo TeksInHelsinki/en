@@ -1,0 +1,47 @@
+= Le Coût de la Vie
+:hp-tags: vie quotidienne, budget, transports, sorties, téléphone, shopping, les tutos de Coleen
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/2.cout_de_la_vie.jpg
+:published_at: 2015-03-02-17:00
+
+La Finlande, c'est *cher*. Forcément, c'est un petit pays qui a masse d'argent, donc ils ont des gros salaires et tout coûte cher ! Awesome...
+
+A noter, un post réservé à l'hébergement sera créé un peu plus tard !
+
+=== Les Transports
+
+Normalement on devrait avoir la réduction étudiant (ça ne marche pas si on étudie, par exemple, en France, mais comme on est à Laurea ça devrait passer !), donc par mois pour toute la région (de Espoo à Helsinki et ailleurs) ça devrait être 50€ par mois.
+
+A noter, Laurea est à 8 minutes à pied du centre d'Espoo donc si vous avez vos apparts là bas et que vous ne voulez pas sortir vous n'avez pas besoin de prendre une carte.
+
+Les tickets de métro unitaires seraient apparemment autour de 2€ en journée et 5,50€ pendant la nuit.
+
+Le site officiel pour les transports est https://www.hsl.fi/en.
+
+=== La Bouffe
+
+Au niveau supermarché, c'est un peu plus cher qu'en France, mais rien d'horrible non plus. Encore une fois, je me base sur les prix parisiens donc c'est peut être un peu biaisé.
+
+Au niveau restaurants il me semble que c'est un peu plus cher aussi mais pareil, c'est pas la mort. Et puis il y a toujours les fast-food !
+
+=== Les Sorties
+
+Et c'est là que ça douille vraiment !
+
+Je ne suis jamais allée dans une boîte de nuit en France, donc je n'ai aucune idée des prix, mais la seule fois que j'y suis allée à Helsinki l'entrée était à 12€ (ce qui m'a fait bien chier en tant qu'habituée des bars où tu rentres... gratuitement).
+
+Et les boissons. Ah. Je ne me souviens plus exactement mais c'est entre 6 et 10€ pour, il me semble, moins d'une pinte de bière ? Dur...
+
+Enfin, pour le ciné il faut compter entre 12,80 et 15,50€ la place ! Avec le tarif étudiants, oui oui ! Les cinéma les plus connus sont appelés Finnkino, soit dit au passage, et ce sont leurs prix que je cite.
+
+=== Téléphone
+
+Généralement, pour le téléphone, les Erasmus prennent des cartes avec juste de la 3G/4G, et se servent des apps de messageries (FB Messenger, WhatsApp...) pour communiquer entre eux et avec leurs proches en France.+
+Le prix de ces cartes seraient aux alentours de 35€ pour 6 mois de 3G illimité, ou 6,5€ par mois pour soit illimité en 3G, soit 1GB de 4G. Par contre, ils ne se souviennent plus de l'opérateur, et je n'arrive pas à le trouver ! Ca existe aussi chez DNA, mais à 16,90€ par mois.
+
+=== Shopping
+
+Apparemment au niveau des fringues, jeux vidéos etc. c'est plus ou moins la même chose qu'ici.
+
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+
+NOTE: Sources : de mes expériences, mes connaissances finlandaises et Internet

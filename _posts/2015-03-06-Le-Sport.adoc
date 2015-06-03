@@ -1,0 +1,62 @@
+= Le Sport
+:hp-tags: Les tutos de Coleen, Point Culture, sport, hockey sur glace, Formule 1, ski
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/6.sports.jpg
+:published_at: 2015-03-06
+
+Le sport est important pour de nombreux Finlandais. Voici donc un post présentant les principaux sports pratiqués en Finlande, et indiquant des endroits où on pourra nous aussi faire du sport !
+
+=== Le Hockey sur Glace
+
+Le hockey sur glace est LE sport en Finlande. Un peu l'équivalent du foot en France, quoi.
+
+video::https://TeksInHelsinki.github.com/images/article_images/6.sport_hockey.webm[options="nocontrols,autoplay,loop"]
+
+Quand vous allez faire du patin à glace dans l'une des nombreuses patinoires du coin (ou sur les lacs pour faire plus typique), vous verrez généralement des groupes de gens faire du hockey dans un coin. De nombreux jeunes le pratiquent en tant que sport hebdomadaire, même si c'est très cher. +
+Évidemment, ils ont une équipe nationale qui a gagné la coupe du monde deux fois, en 1995 et 2011, et les Finlandais s'en souviennent toujours avec des larmes de joie dans les yeux. +
+Enfin, la phrase "Ce n'est pas grave si on perd, tant qu'on bat les Suédois" est connue en général, mais plus particulièrement dans ce sport où les Suédois sont également très bon.
+
+=== Le Ski (ou pas)
+
+Quand vous demandez aux Finlandais s'ils font du ski, vous vous apercevrez très rapidement que vous ne parlez pas du même sport... et s'en suivra sûrement un long débat sur ce qu'est le "vrai" ski. Et oui, vu le peu de montagnes en Finlande, les finlandais pratiquent surtout le ski de fond ! Mais du coup, ils le pratiquent un peu partout, vous pouvez juste sortir et en faire faire dans un bois ou le long d'un lac :)
+
+Ils font aussi du ski alpin, mais les stations se situent en Laponie, et comme ils ont juste des sortes de grosses collines (_tunturi_) là bas, ça doit pas aller loin...
+
+
+=== La Formule 1
+
+La F1 - oui je mets ça dans sports - est pas mal suivie en Finlande. +
+De nombreux pilotes finlandais ont été champion du monde et les finlandais en sont plutôt fiers (pour une fois qu'on parle d'eux !). Le dernier champion du monde est Kimi Räikkönen, qui a gagné le titre en 2008, et qui conduit encore aujourd'hui chez Ferrari. Une autre star montante est Valterri Bottas, chez Mercedes, qui a commencé très fort l'année dernière. Il n'est pas rare d'entendre parler d'eux dans les tabloïds finlandais, ce qui est plus rare en France j'ai l'impression. +
+Et oui, j'aime beaucoup la F1, au cas où vous n'auriez pas compris :D
+
+
+=== Les Autre Sports
+
+Le sport national est le baseball finlandais, qui n'a pas les mêmes règles que le baseball US, mais vraiment peu de gens le pratiquent.
+
+En hiver, les gens font beaucoup de patin à glace, que ce soit sur des patinoires (ils transforment beaucoup de terrains de foot extérieurs en patinoires pendant l'hiver), sur des lacs ou même sur la mer si la baie est gelée !
+
+En été, la randonnée et le camping (autorisé partout) ont pas mal de succès. Les autres sports rapprochant les Finlandais de leur bien-aimée nature sont en général appréciés (escalade, balade en barque sur les lacs, natation, pêche etc.).
+
+A savoir, l'Etat entretient des refuges gratuits, pour les skieurs en hiver et les randonneurs l'été.
+
+
+=== Comment Faire du Sport ?
+
+L'un des anciens Tek m'a dit qu'il y avait une salle de sport - si j'ai bien compris - dans l'université en face de Laurea, et que l'entrée est totalement libre donc c'est un bon plan potentiel ! Le mec n'y est jamais allé, donc je ne sais pas exactement quel type de salle de sport c'est, mais c'est un début !
+
+Sinon, la Finlande est un pays très sportif donc il y a de quoi faire, avec souvent des tarifs intéressants pour les étudiants.
+
+Quelques exemples de complexes sportifs assez connus : +
+- link:http://salmisaarenliikuntakeskus.fi/[Salmisaari] : escalade de murs et bloc, muscu et fitness, bowling, lasertag... +
+- link:http://kiipeilykeskus.com/eng[Tapanila] : pour faire de l'escalade sur des murs en mode naturel, avec plus de challenge qu'à Salmisaari, par contre c'est un peu plus loin d'Helsinki, mais moins cher ! +
+- link:http://www.urheiluhallit.fi/eng[Mäkelänrinne] : piscine assez belle, il y a aussi une salle de gym mais ça augmente le prix du ticket. +
+
+Donc voilà, il y a des salles de sport et des piscines partout ! Apparemment c'est moins cher plus on s'éloigne des centres ville. En plus des tarifs étudiants, il y a souvent des cartes de 10 tickets qui donnent une certaine réduction.
+Et pour les adeptes du jogging il y a de la nature partout pour aller courir donc c'est cool !
+
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+
+NOTE: Sources : les anciens Epitech, mes connaissances finlandaises, mes expériences et Internet
+
+NOTE: link:https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen[Crédit photo de couverture], Kimi Räikkönen chez Lotus en 2012
+

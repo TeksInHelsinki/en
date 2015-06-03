@@ -1,0 +1,55 @@
+= Les Bases de la Culture Finlandaise
+:hp-tags: Point Culture, Sisu, sauna, nature, kalevala, culture
+:hp-image: https://TeksInHelsinki.github.com/images/article_covers/4.bases_culture.jpg
+:published_at: 2015-03-05
+
+Le but de ce post est de vous renseigner sur certains points essentiels de la culture finlandaise !
+
+=== Sisu
+
+Le "sisu" désigne l'état d'esprit finlandais. Je reviendrais sur ça dans un autre post, mais en gros, le sisu représente la détermination, la ténacité et le courage des Finlandais. C'est ce qui leur permet de traverser ces longs hivers sans râler, et ils sont réputés pour être "les meilleurs quand les conditions sont les pires". Selon Wikipédia, "[Le sisu] est le cœur de l'âme finlandaise, l'acharnement patient qui permet aux Finlandais d'affronter toutes les situations et de mener à bien leurs objectifs".
+
+
+=== Sauna
+
+Les saunas sont PARTOUT en Finlande ! Généralement tous les appartements en ont un (connecté à leur salle de bain), sauf certains petits apparts étudiants, où il y a quand même un sauna collectif par immeuble. Il y aurait 3 million de saunas en Finlande, pour cinq million d'habitants, ce qui veut dire qu'à un moment donné tous les Finlandais pourraient se trouver en même temps dans leurs saunas !
+
+
+Les saunas finlandais sont vraiment chaud, donc je ne sais pas si vous avez déjà testé mais moi j'ai trouvé ça dur au début. Par contre quand vous reviendrez en France vous trouverez tous les saunas municipaux bien trop frais :) En général ils sont entre 60 et 80°C il me semble. Une fois j'ai fait l'erreur de dire à un Finlandais que le sauna n'était pas assez chaud, le lendemain il l'avait tellement chauffé que je ne pouvais même pas m’asseoir sur le banc de bois brûlant !
+
+
+Les Finlandais utilisent parfois des branches de bouleaux (vihta) et se fouettent avec dans le sauna pour faire circuler le sang. Ou alors ils vont se rouler dans la neige ou se baigner dans un lac glacé en plein hiver. Chacun son truc, hein ! D'ailleurs, le sauna est très bon pour le corps pour de nombreuses raisons : ça aide à évacuer la nicotine quand on veut arrêter de fumer, ça débarrasse des poux et autres morpions, ça stimule la circulation sanguine et le système immunitaire et plein d'autres trucs trop cool !
+
+
+Enfin, les saunas se pratiquent entièrement nu. Wep. Les maillots de bain sont interdits, et les serviettes autour de la taille peuvent paraître étranges car personne n'en porte. Du coup, les saunas collectifs ne sont en général pas mixtes, même s'il est très commun de faire des saunas mixtes entre amis et famille.
+
+
+link:http://satwcomic.com/sauna-time[Une petite BD pour vous mettre dans l'ambiance]
+
+=== Nature
+
+Les Finlandais, plus que beaucoup de peuples occidentaux, se sentent extrêmement proches de la nature... et ça se voit partout ! Il y a énormément de nature dans les villes, par exemple (arbres, parcs, étendues sauvages qui poppent un peu partout), le design finlandais est très souvent inspiré de la nature (voir le célèbre Alvar Aalto), et les Finlandais ont de grosses tendances écolo.
+
+
+Cet état d'esprit se retrouve également dans l'hymne national, "Maamme" (Notre Terre) qui est pour une fois loin d'être un chant guerrier. En effet, on y parle simplement de la beauté de la nature finlandaise ! Et dans le drapeau finlandais, le bleu représente l'eau des lacs et le blanc représente la neige immaculée.
+
+
+Enfin, le _jokamiehenoikeus_ est un mot qui désigne le fait de pouvoir profiter de la nature, tant qu'on la respecte, sans prendre en compte les notions de "propriété" des terrains. Dans les faits, ça veut dire que vous pouvez vous balader sur des terrains privés tant que vous ne dérangez pas les propriétaires - ou plus précisément, tant que vous ne les entendez pas et qu'ils ne vous entendent pas. Ceci explique notamment que, contrairement à la France, le camping sauvage est autorisé partout - d'ailleurs, de nombreux Finlandais ne comprennent pas comment on peut l'interdire !
+
+
+=== Le Kalevala
+
+Le Kalevala est un recueil de chants relatant la mythologie finnoise, une sorte d'Illiade de là bas quoi. En effet, contrairement à ce qu'on pourrait penser, la Finlande ne fait pas partie de la Scandinavie, et n'a donc jamais vénéré ni Thor, ni Odin, ni Loki !
+
+Le Kalevala fut écrit au XIXe siècle par Elias Lönnrot, qui parcouru la Finlande dans tous les sens pour récupérer les chansons traditionnelles auprès des bardes (la classe !), avant de les ordonner chronologiquement.
+En deux mots (ou plus, vous commencez à avoir l'habitude de mes pavés), la création du monde c'est une fille (Ilmatar, aka la fille de l'air) qui est dans la mer, un canard pond des oeufs sur son genoux mais elle brise les oeufs et de la ça donne une partie de la coquille devient la terre et une autre le ciel, le jaune devient le soleil et le blanc la lune. Pourquoi pas, hein ! Après, c'est l'histoire du fils d'Ilmatar, qui s'appelle Väinämöinen, un vieux barde magicien qui parcours la terre et vit plein d'aventures !
+
+Le Kalevala est extrêmement présent dans la culture finlandaise, même si aujourd'hui évidemment les gens sont plutôt chrétiens ou athées. De nombreux tableaux représentants les aventures de Väinämöinen sont célèbres, et c'est le même mec qu'on voit sur les memes de Finlande (je ne sais pas si vous en avez déjà croisé, je vous en posterait à l'occasion).
+Au passage, Tolkien s'est inspiré de ce bouquin pour Le Seigneur des Anneaux ! Tout comme il s'est inspiré du finnois pour créer l'elfique.
+
+Si vous aimez lire des aventures épiques, ou que vous aimez juste la mythologie en général, je vous conseille vivement de lire ce livre ! La traduction française est très agréable, et d'autant que je puisse en juger c'est bien traduit, surtout pour des poèmes dont les "rimes" se font sur l'accent tonique de la première syllabe du vers en version originale xD Je n'ai lu que le début pour l'instant, mais j'ai trouvé ça génial ! +
+Références si besoin : "Le Kalevala", éditions Honoré Champion, collection Champion Classiques, traduit par Jean-Louis Perret (18€).
+
+NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+
+NOTE: Sources : de mes expériences, mes connaissances finlandaises et Internet

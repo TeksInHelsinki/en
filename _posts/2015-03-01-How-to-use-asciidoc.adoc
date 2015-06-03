@@ -1,0 +1,59 @@
+# How to use asciidoc
+:some_label: lets add a label
+
+:hp-tags: how to use tags, #NotHashtag, But it doesn't work yet
+
+
+
+
+link:http://powerman.name/doc/asciidoc[here's a good link]
+
+https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/asciidoc-recommended-practices.adoc[you can check this one too] //yes 'link:' may be optionnal
+
+
+= Has you can see, there's differents way to create a title
+
+# Yeah, this is the same
+
+so is this one
+==============
+
+{some_label}
+
+
+====
+this is usefull to quote something
+
+----
+and yes, you can do this like this too
+====
+
+
+*this is bold*
+
+_this is italic *and bold*!_
+
+Author Name <author@example.org>
+
+Author Name <link:github.com/ArmandDu> //does not work
+
+Author Name <link:github.com/ArmandDu[]> // how to do it
+
+Author Name <link:github.com/ArmandDu[Supreme leader]> // yes you can use label
+
+
+<h2> html? oh wait... </h2>
+
+
+++++++++++++++++
+
+<h2> YEAH </h2>
+
+++++++++++++++++
+
+
+
+NOTE: this is a note 
+
+
+
