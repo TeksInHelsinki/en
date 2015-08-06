@@ -1,28 +1,17 @@
 = Housing
 :hp-tags: Coleen's tutorials, housing, flats, HOAS
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/5.hebergement.jpg
-:published_at: 2015-03-04
+:published_at: 2015-08-06
 
+This (important) post will be edited when we have more informations about our flats. +
+I will talk about HOAS (the student flats) and the private sector. 
 
-Un post essentiel, qui sera édité au fur et à mesure qu'on reçoit plus d'infos !
-Je détailles les trois possibilités de logements principales, et tout ce que l'on sait sur elles.
-
-=== Les Deadlines
-
-*_Quand Faire Sa Demande ?_* +
-Apparemment on ne peut pas faire sa demande à HOAS plus de 4 mois avant l'emménagement prévu.
-De plus, il faut avoir le dossier complet pour faire sa demande dans un logement HOAS, c'est à dire la confirmation par l'université. +
-Une fois qu'on a un dossier complet, il faut foncer tout de suite pour être sûrs d'avoir des places !!
-
-*_Quand Est-ce Qu'on Aura la Réponse ?_* +
-Un ancien tek m'a dit que les réponses ne tombaient que vers juillet et qu'il ne fallait donc pas paniquer si on a pas de nouvelles !
-
-=== Les Appartements en Finlande
+=== The Flats in Helsinki
 
 *_HOAS_* +
-C'est le nom de l'organisme gouvernemental fournissant des appartements aux étudiants dans la région d'Helsinki.
+This is the governmental organisation which issues student flats in the Helsinki area.
 
-*_Les Particularités Finlandaises_* +
+*_Weird Finnish Flat Things_* +
 Il arrive très souvent que l'on ait pas le droit de fumer dans son appart, même quand on vit seul, ou qu'on fume sur le balcon ou dans le jardin. +
 Dans le même genre de trucs bizarre, il faut toujours laisser ses chaussures à l'entrée, apparemment c'est une règle immuable qu'il faut respecter.
 
@@ -58,13 +47,18 @@ L'ancien tek que j'ai contacté payait 500€/mois pour une chambre de 14m² dan
 Dans les bâtiments d'Espoo il y a une laverie gratuite, ce qui n'est pas le cas de ceux d'Helsinki ! +
 A côté d'Espoo il y a aussi un Ikea si besoin est.
 
+*_When should you ask for an HOAS flat ?_* +
+Apparemment on ne peut pas faire sa demande à HOAS plus de 4 mois avant l'emménagement prévu.
+De plus, il faut avoir le dossier complet pour faire sa demande dans un logement HOAS, c'est à dire la confirmation par l'université. +
+Une fois qu'on a un dossier complet, il faut foncer tout de suite pour être sûrs d'avoir des places !!
+
+*_Quand Est-ce Qu'on Aura la Réponse ?_* +
+Un ancien tek m'a dit que les réponses ne tombaient que vers juillet et qu'il ne fallait donc pas paniquer si on a pas de nouvelles !
+
+
 *_Les Liens Utiles_* +
 link:http://www.hoas.fi/www/hoaswww.nsf/sp3?open&cid=Content1082A[Informations sur les offres Erasmus d'HOAS] +
 link:http://www.hoas.fi/www/hoaswww.nsf/sp2?Open&cid=ContentD7370-2[Les différents immeubles disponibles et leurs types d'appartements]
-
-=== Les Autres Offres d'HOAS
-
-Apparemment... on y aurait pas le droit ? Je vais me renseigner là dessus et je vous tiens au courant !
 
 === Les Appartements Privés
 
