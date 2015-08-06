@@ -1,5 +1,5 @@
-= L'Hébergement
-:hp-tags: Les tutos de Coleen, hébergement, appart, logement
+= Housing
+:hp-tags: Coleen's tutorials, housing, flats, HOAS
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/5.hebergement.jpg
 :published_at: 2015-03-04
 
