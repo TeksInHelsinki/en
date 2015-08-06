@@ -1,47 +1,54 @@
-= Le Coût de la Vie
-:hp-tags: vie quotidienne, budget, transports, sorties, téléphone, shopping, les tutos de Coleen
+= The Price of Living
+:hp-tags: everyday life, budget, transports, going out, phone, shopping, Coleen's tutorials
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/2.cout_de_la_vie.jpg
 :published_at: 2015-03-02-17:00
 
-La Finlande, c'est *cher*. Forcément, c'est un petit pays qui a masse d'argent, donc ils ont des gros salaires et tout coûte cher ! Awesome...
+Finland is expensive. It is a rich country, so the wages are high, and when you come from somewhere else (even France apparently) everything looks expensive. Great...
 
-A noter, un post réservé à l'hébergement sera créé un peu plus tard !
+This post does not deal with housing, as this is the subject of another article.
 
-=== Les Transports
+=== Transportation
 
-Normalement on devrait avoir la réduction étudiant (ça ne marche pas si on étudie, par exemple, en France, mais comme on est à Laurea ça devrait passer !), donc par mois pour toute la région (de Espoo à Helsinki et ailleurs) ça devrait être 50€ par mois.
+The transport pass, for one month in the whole Helsinki area (including Espoo and Vantaa) costs 100€ per month. Helsinki only is 50€/month. +
+Thankfully, the student prices are half of these prices! So it should be 50€ for a month in the Helsinki area and 25€ for Helsinki only.
 
-A noter, Laurea est à 8 minutes à pied du centre d'Espoo donc si vous avez vos apparts là bas et que vous ne voulez pas sortir vous n'avez pas besoin de prendre une carte.
+Be careful though : these student prices only apply to students currently studying in a Finnish university. If you are a student in another country, even with an international student card, they will not apply to you and you will have to pay full price. Sad, I know.
 
-Les tickets de métro unitaires seraient apparemment autour de 2€ en journée et 5,50€ pendant la nuit.
+For the Laurea students : the university is 8 minutes walk from the center of Espoo, so depending where your flat is, you might not even need a transport card !
 
-Le site officiel pour les transports est https://www.hsl.fi/en.
+Concerning single subway/tram/bus tickets, they cost about 2€ during the day, and 5,50€ by night.
 
-=== La Bouffe
+The official website for Helsinki public transportation is https://www.hsl.fi/en.
 
-Au niveau supermarché, c'est un peu plus cher qu'en France, mais rien d'horrible non plus. Encore une fois, je me base sur les prix parisiens donc c'est peut être un peu biaisé.
+=== Food
 
-Au niveau restaurants il me semble que c'est un peu plus cher aussi mais pareil, c'est pas la mort. Et puis il y a toujours les fast-food !
+The supermarkets are a bit more expensive than in France (Paris), but it's not a huge difference either. +
+Same for restaurants - both regular/classy and fast food.
 
-=== Les Sorties
+I will try and remember to update this article with concrete exemples of food prices once I'm in Finland.
 
-Et c'est là que ça douille vraiment !
+=== Going out
 
-Je ne suis jamais allée dans une boîte de nuit en France, donc je n'ai aucune idée des prix, mais la seule fois que j'y suis allée à Helsinki l'entrée était à 12€ (ce qui m'a fait bien chier en tant qu'habituée des bars où tu rentres... gratuitement).
+And this, ladies and gentlemen, is the difficult part.
 
-Et les boissons. Ah. Je ne me souviens plus exactement mais c'est entre 6 et 10€ pour, il me semble, moins d'une pinte de bière ? Dur...
+Movies are gonna be the worst I think. In France, you can have your ticket for 4/6€ as a student. In Helsinki, you should count between 13 and 16€. Yup. That's almost the price of my unlimited card for one month. Just thinking of all the awesome movies coming out next year... ouch ! +
+The most well known movie theaters are named "Finnkino" and those are their prices.
 
-Enfin, pour le ciné il faut compter entre 12,80 et 15,50€ la place ! Avec le tarif étudiants, oui oui ! Les cinéma les plus connus sont appelés Finnkino, soit dit au passage, et ce sont leurs prix que je cite.
+Then we have the alcohol. It's not getting better. If I remember correctly (once again, I will update once I checked) a pint of beer is about 6/10€. Or was it less than a pint ? I only remember that it was shockingly expensive. +
+If you buy alcohol in a shop - probably in Alko, cf the article about alcohol - it will still be expensive. The cheapest bottles of wine are about 7/10€, and sure it's better wine than the French cheapest bottles but still.
 
-=== Téléphone
+I have no idea of the prices of night clubs in France - or elsewhere - because the only time I went in one was in Helsinki. Well, there it was 12€ to get in, which stings when you're used to enter into a bar for free.
 
-Généralement, pour le téléphone, les Erasmus prennent des cartes avec juste de la 3G/4G, et se servent des apps de messageries (FB Messenger, WhatsApp...) pour communiquer entre eux et avec leurs proches en France.+
-Le prix de ces cartes seraient aux alentours de 35€ pour 6 mois de 3G illimité, ou 6,5€ par mois pour soit illimité en 3G, soit 1GB de 4G. Par contre, ils ne se souviennent plus de l'opérateur, et je n'arrive pas à le trouver ! Ca existe aussi chez DNA, mais à 16,90€ par mois.
+=== Phones
+
+Apparently, most Erasmus students take phone cards with only the 3G/4G and use message apps (Facebook Messenger, WhatsApp, etc.) to communicate. +
+The students who told me about this said the prices for such cards should be about 35€ for 6 months unlimited, or 6,5€ per month. They didn't remember the brand of those cards, which makes the advise a bit useless. +
+DNA has this type of cards too, but for 16,90€ per month.
 
 === Shopping
 
-Apparemment au niveau des fringues, jeux vidéos etc. c'est plus ou moins la même chose qu'ici.
+From what I saw, the prices of clothes, video games etc. is about the same here as it is in France.
 
-NOTE: Article écrit par link:https://github.com/Lokenstein[Coline]
+NOTE: Article written by link:https://github.com/Lokenstein[Coline]
 
-NOTE: Sources : de mes expériences, mes connaissances finlandaises et Internet
+NOTE: Sources : my experiences, my Finnish friends and the Internet
