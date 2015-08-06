@@ -1,7 +1,7 @@
 = The Price of Living
 :hp-tags: everyday life, budget, transports, going out, phone, shopping, Coleen's tutorials
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/2.cout_de_la_vie.jpg
-:published_at: 2015-03-02-17:00
+:published_at: 2015-08-05
 
 Finland is expensive. It is a rich country, so the wages are high, and when you come from somewhere else (even France apparently) everything looks expensive. Great...
 
