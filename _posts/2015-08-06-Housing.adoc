@@ -11,7 +11,9 @@ I will talk about HOAS (the student flats) and the private sector.
 *_HOAS_* +
 This is the governmental organisation which issues student flats in the Helsinki area.
 
-*_Weird Finnish Flat Things_* +
+*_Finnish Flat Rules_* +
+
+
 Il arrive très souvent que l'on ait pas le droit de fumer dans son appart, même quand on vit seul, ou qu'on fume sur le balcon ou dans le jardin. +
 Dans le même genre de trucs bizarre, il faut toujours laisser ses chaussures à l'entrée, apparemment c'est une règle immuable qu'il faut respecter.
 
