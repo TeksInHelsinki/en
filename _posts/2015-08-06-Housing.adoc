@@ -3,48 +3,48 @@
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/5.hebergement.jpg
 :published_at: 2015-08-06
 
-This (important) post will be edited when we have more informations about our flats. +
+This (important) post will be edited when we have more information about our flats. +
 I will talk about HOAS (the student flats) and the private sector. 
 
 === The Flats in Helsinki
 
 *_HOAS_* +
-This is the governmental organisation which issues student flats in the Helsinki area.
+This is the governmental organization which issues student flats in the Helsinki area.
 
 *_Finnish Flat Rules_* +
 You very often cannot smoke in Finnish flats, even when you live alone, and even on the balcony or in the garden. How weird. +
-Pets are also very controlled, you have to negociate hard with the landlord if you want to have one. +
+Pets are also very controlled; you have to negotiate hard with the landlord if you want to have one. +
 Apparently you also have to always leave your shoes at entrance, it's a golden rule. +
 
 === Where to live?
 
-*Helsinki* is obviously the center, and it's nice for several reasons: it's beautiful, you have everything near, and you don't have any problems to come back late after a night out ! If you are a student in Laurea, you'll have more or less 30 minutes of transports to arrive.
+*Helsinki* is obviously the center, and it's nice for several reasons: it's beautiful, you have everything near, and you don't have any problems to come back late after a night out! If you are a student in Laurea, you'll have more or less 30 minutes of transports to arrive.
 
 *Espoo*, where the university is, is the most practical if you're a student in Laurea. It is also the rich city of the area, which can become problematic if you have to rent a private flat.
 
-*Vantaa*, the second city of the suburbs, is not advised if you are a Laurea student : it will be between one and two hours away from the school. Otherwise, it's cheaper than Helsinki or Espoo and not too far from the center of the capital so it can be interesting.
+*Vantaa*, the second city of the suburbs, is not advised if you are a Laurea student: it will be between one and two hours away from the school. Otherwise, it's cheaper than Helsinki or Espoo and not too far from the center of the capital so it can be interesting.
 
 === HOAS Erasmus Buildings
 
-There are a lot of different formulas in HOAS (flat alone, with roomates, in a couple, etc.) but as Erasmus students our options were limited (we couldn't take "couple" flats for instance), so I will only talk about the options open for Erasmus students.
+There are a lot of different formulas in HOAS (flat alone, with roommates, in a couple, etc.) but as Erasmus students our options were limited (we couldn't take "couple" flats for instance), so I will only talk about the options open for Erasmus students.
 
 *_The Different Types of Flats_* +
-The different possibilities for an Erasmus student are : +
+The different possibilities for an Erasmus student are: +
  - A room alone in a shared flat +
  - A shared room in a shared flat +
  - A studio for one person +
  - A shared studio
 
 *_The Furniture Included_* +
-All HOAS flats include a bed, a matress, a table, a chair, a bedside table, plus what's in the common parts (dishes if the previous renters left some, for instance). In shared flats, there's only one kitchen and one bathroom. +
+All HOAS flats include a bed, a mattress, a table, a chair, a bedside table, plus what's in the common parts (dishes if the previous renters left some, for instance). In shared flats, there's only one kitchen and one bathroom. +
 In the rent of the flat are also included the Internet connection, the heating and the electricity. +
-When you register for a flat, you can apparently check some boxes if you want a sauna (inside your flat), a balcony or an elevator. This can make the price grow so be careful what you wish for ! There should be a common sauna in every building anyway.
+When you register for a flat, you can apparently check some boxes if you want a sauna (inside your flat), a balcony or an elevator. This can make the price grow so be careful what you wish for! There should be a common sauna in every building anyway.
 
 *_The Things Left to Buy_* +
 A blanket, a pillow and some sheets (about 100€), plus some dishes if they were not left by previous renters.
 
 *_The Prices of the Flats_* +
-The price depends on the type of flat, obviously. The prices of the flats we found are detailled bellow, but basically in Helsinki it's between 390€/month (for a flat alone) and 295€/month (for a shared studio).
+The price depends on the type of flat, obviously. The prices of the flats we found are detailed bellow, but basically in Helsinki it's between 390€/month (for a flat alone) and 295€/month (for a shared studio).
 
 *_Specific Aspects of Different Buildings_* +
 In the buildings of Espoo there's a common washing machine, unlike in the ones of Helsinki. +
@@ -52,10 +52,10 @@ There's also an Ikea store near the Espoo buildings, which can be quite useful.
 
 *_When should you ask for an HOAS flat?_* +
 You can ask for an HOAS flat only 4 months (or later) before the date of your moving in. You also need the confirmation from the university that it will welcome you as a student to make your registration. +
-Once you have everything you need to ask for your flat, do it as quickly as possible to be sure to have a flat !
+Once you have everything you need to ask for your flat, do it as quickly as possible to be sure to have a flat!
 
 *_When will you have the answer?_* +
-You should recieve the answer from HOAS between June and July, so don't panic if it takes some time !
+You should receive the answer from HOAS between June and July, so don't panic if it takes some time!
 
 *_Useful links_* +
 link:http://www.hoas.fi/www/hoaswww.nsf/sp3?open&cid=Content1082A[Informations about HOAS' Erasmus offers] +
@@ -66,8 +66,8 @@ link:http://www.hoas.fi/www/hoaswww.nsf/sp2?Open&cid=ContentD7370-2[The availabl
 Private flats are not easy to find, and are usually quite expensive. For instance, a 30m² in Helsinki costs about 700€.
 
 *_Where to Look?_* +
-There are a lot of Facebook groups, of Laurea students or of Erasmus students in Finland for instance, where you can find flats from people leaving theirs, or roomates to share a flat with you. +
-If you are a Laurea student, there are people from the university dedicated to help you with your accomodation.
+There are a lot of Facebook groups, of Laurea students or of Erasmus students in Finland for instance, where you can find flats from people leaving theirs, or roommates to share a flat with you. +
+If you are a Laurea student, there are people from the university dedicated to help you with your accommodation.
 
 *_Useful Links_* +
 link:http://forenom.fi/[Forenom], a website to look for cheap-ish flats.
@@ -76,7 +76,7 @@ link:http://forenom.fi/[Forenom], a website to look for cheap-ish flats.
 
 Here is some information about our flats.
 
- - Benoît, Martin and Armand will be 10 minutes away from the center of Helsinki and 30 minutes away from Laurea. They recieved their answers on the 11th of June.
+ - Benoît, Martin and Armand will be 10 minutes away from the center of Helsinki and 30 minutes away from Laurea. They received their answers on the 11th of June.
  - Jérome will be in the real center of Helsinki, he got his answer on the 12th of June.
  - I, the only one who did not use HOAS (because I wanted to be with my girlfriend), found a private flat on the 10th of July. I will be in the edge of the center of Helsinki.
 
