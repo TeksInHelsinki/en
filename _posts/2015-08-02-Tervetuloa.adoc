@@ -4,8 +4,8 @@
 :hp-image: https://TeksInHelsinki.github.com/images/helsinki-background.jpg
 :published_at: 2015-08-02
 
-We are five students from Epitech - French computer science school - and we will spend our fourth year (2015/2016) in Finland ! More precisely, we were accepted in the Laurea University of Applied Science, in Espoo, in the Helsinki suburbs. +
-This is the reason why we decided to create a blog, first to share our informations about Finland, its culture etc., and later to tell about our experience, whether it is about the classes we'll take or about our everyday life in a foreign country.
+We are five students from Epitech - French computer science school - and we will spend our fourth year (2015/2016) in Finland! More precisely, we were accepted in the Laurea University of Applied Science, in Espoo, in the Helsinki suburbs. +
+This is the reason why we decided to create a blog, first to share information about Finland, its culture etc., and later to tell about our experience, whether it is about the classes we'll take or about our everyday life in a foreign country.
 
 The students contributing to this blog are : Jérôme CAMPEAUX (Paris), Martin DONADIEU (Montpellier), link:https://github.com/ArmandDu[Armand DUPUIS] (Strasbourg), Benoît DURAND (Paris) and Coline MARION (Paris).
 
