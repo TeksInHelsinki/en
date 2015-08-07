@@ -72,7 +72,7 @@ If you are a Laurea student, there are people from the university dedicated to h
 *_Useful Links_* +
 link:http://forenom.fi/[Forenom], a website to look for cheap-ish flats.
 
-NOTE: Article written by link:https://github.com/Lokenstein[Coline]
+NOTE: Article written by link:https://github.com/Lokenstein[Coline] & link:https://github.com/ArmandDu[Armand]
 
 NOTE: Sources : the old Epitech students, my Finnish friends and the Internet
 
