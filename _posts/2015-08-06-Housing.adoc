@@ -72,6 +72,25 @@ If you are a Laurea student, there are people from the university dedicated to h
 *_Useful Links_* +
 link:http://forenom.fi/[Forenom], a website to look for cheap-ish flats.
 
+=== Our Flats!
+
+Here is some information about our flats.
+
+ - Benoît, Martin and Armand will be 10 minutes away from the center of Helsinki and 30 minutes away from Laurea. They recieved their answers on the 11th of June.
+ - Jérome will be in the real center of Helsinki, he got his answer on the 12th of June.
+ - I, the only one who did not use HOAS (because I wanted to be with my girlfriend), found a private flat on the 10th of July. I will be in the edge of the center of Helsinki.
+
+Concerning the prices:
+
+- Armand has a *30m² studio for 390€/month*.
+- Benoît and Martin are in a *shared flat (6 people) for 330€/person/month*.
+- Jérome is in a *shared studio for 297.50€/person/month*.
+- I will be in a *23m² shared flat (2 people) for 330€/person/month* (outside of HOAS).
+
+Bonus:
+
+image::https://TeksInHelsinki.github.com/images/article_images/5.carte_hoas.jpg[]
+
 NOTE: Article written by link:https://github.com/Lokenstein[Coline] & link:https://github.com/ArmandDu[Armand]
 
 NOTE: Sources : the old Epitech students, my Finnish friends and the Internet
