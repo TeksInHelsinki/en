@@ -7,7 +7,8 @@ This post aims at enlightning you on some of the main aspects of Finnish culture
 
 === Sisu
 
-The "sisu" is the Finnish mindset. Basically, sisu means determination, bravery, guts, resilience & perseverance. It's sisu that allows Finnish people to go through long winter without complaining, and which gave them the reputation of being at their best when the circumstances are at their worst. +
+"Sisu" is the Finnish mindset. Basically, sisu means determination, bravery, guts, resilience & perseverance. +
+It is sisu that allows Finnish people to go through long winter without complaining, and which gave them the reputation of being at their best when the circumstances are at their worst. +
 According to the French Wikipedia, "The sisu is the heart of the Finnish soul. It is the patient stubbornness which allows the Finnish people to face all the situations and to complete their goals".
 
 === Sauna
@@ -49,4 +50,4 @@ If you like to read epic adventures and fantasy, you should definitely read this
 
 NOTE: Article written by link:https://github.com/Lokenstein[Coline]
 
-NOTE: Sources : my memories from Finland, the Kalevala, and the Internet 
+NOTE: Sources : my memories from Finland, the Kalevala, the French and English Wikipedia pages of Sisu, and the Internet 
