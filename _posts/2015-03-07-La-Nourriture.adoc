@@ -1,11 +1,13 @@
 = La Nourriture
-:hp-tags: Point Culture, nourriture, plats traditionnels
+:hp-tags: culture, food
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/7.food1.jpg
 :published_at: 2015-03-07
 
+As a French perso, I obviously _have_ to talk about food! Finnish food is ;qinly inspied by its neighbor countries
+
 En tant que Français, on ne peut pas faire l'impasse sur cette importante partie de toute culture. Comme pour beaucoup de choses, la cuisine finlandaise est très inspirée de celle d'autres pays, notamment la Suède, mais ils ont quand même leurs plats typiques !
 
-=== Le Salmiakki !
+=== Salmiakki!
 
 image::https://TeksInHelsinki.github.com/images/article_images/7.food_salmiakki2.png[]
 
