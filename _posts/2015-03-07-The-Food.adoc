@@ -1,13 +1,15 @@
-= La Nourriture
+= The Food
 :hp-tags: culture, food
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/7.food1.jpg
 :published_at: 2015-03-07
 
-As a French perso, I obviously _have_ to talk about food! Finnish food is mainly inspired by its neighbors, especially Sweden, but they also have their own meals :)
+As a French person, I obviously _have_ to talk about food! Finnish food is mainly inspired by its neighbors, especially Sweden, but they also have their own meals :)
 
 === Salmiakki!
 
 image::https://TeksInHelsinki.github.com/images/article_images/7.food_salmiakki2.png[]
+
+Salmiakki is a kind of salty liquorice
 
 Le salmiakki est une sorte de réglisse salé très largement répandu en Finlande, non seulement sous des formes très variées de bonbons (piquant ou pas, pastilles ou gommes...) mais également en glaces, chocolats, liqueurs, marinades pour barbecue etc. +
 Perso j'y suis accro, mais ce n'est pas au goût de tout le monde. A voir, link:https://www.youtube.com/watch?v=2jmFNoKjUDM[cette publicité pour la glace au Salmiakki] dont le slogan est "Le monde la déteste, les Finlandais l'adorent" et où on voit des gens la goûter et dire (en anglais) que c'est immangeable, puis des Finlandais dire (en finnois du coup) que c'est excellent ! +
