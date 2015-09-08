@@ -1,7 +1,7 @@
 = Finnish Culture 101
 :hp-tags: Culture, sisu, sauna, nature, Kalevala
 :hp-image: https://TeksInHelsinki.github.com/images/article_covers/4.bases_culture.jpg
-:published_at: 2015-03-05
+:published_at: 2015-09-08
 
 This post aims at enlightning you on some of the main aspects of Finnish culture!
 
